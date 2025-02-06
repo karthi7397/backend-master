@@ -1,3 +1,5 @@
+# backend-master
+A collection of quizzes to help you prepare for interviews and strengthen your skills in Backend Role and development.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
